@@ -36,20 +36,20 @@ KNN-on-Breast-cancer-data-set/
 
 ## 🔧 How to Run
 
-1. Clone the repository:
+ 1. Clone the repository:
 
-  git clone https://github.com/Crakedhead42/KNN-on-Breast-cancer-data-set.git
-  cd KNN-on-Breast-cancer-data-set
+ git clone https://github.com/Crakedhead42/KNN-on-Breast-cancer-data-set.git
+ cd KNN-on-Breast-cancer-data-set
   
   
-  2.Install dependencies (if needed):
+ 2.Install dependencies (if needed):
   
-  pip install scikit-learn
+ pip install scikit-learn
   
   
-  3.Run the script(on bash):
+ 3.Run the script(on bash):
   
-  python knn.py
+ python knn.py
 
 
 
